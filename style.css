@@ -1,0 +1,40 @@
+body{
+    background-image: url("download.jpeg");
+    font-family: fantasy;
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    width: 80%;
+    background-color: orangered;
+    border: 2px solid black;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-top: 0px;
+}
+
+#namegiven{
+    margin-top: 50px;
+    width: 20%;
+    text-align: center;
+    border:2px solid blue;
+}
+
+#start{
+    margin-top: 20px;
+    border:2px solid blue;
+}
+
+button{
+background-color: cornflowerblue;
+color:lightcyan;
+margin-top: 20px;
+margin-right: 10px;
+box-shadow: 5px 5px 5px blue;
+}
+
+canvas{
+    border:2px solid blue;
+    box-shadow: 10px 10px 10px red;
+    margin-top: 100px;
+}
